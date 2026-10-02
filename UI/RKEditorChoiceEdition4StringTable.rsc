@@ -403,6 +403,14 @@ StringTable resource
 
 // -------------------------------------------------------------------------------------------------------------
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "NMTReedsFarm";				String _text = "Fazenda de Juncos"; }
+		{ String _name = "NMTReedsFarmLwr";				String _text = "fazenda de juncos"; }
+		{ String _name = "NMTReedsFarmRequire";				String _text = "Juncos"; }
+		{ String _name = "NMTReedsFarmTip";				String _text = "NMT Fazenda de Juncos do Cais: um local de trabalho onde juncos podem ser cultivados em sua zona de Cais. Tamanho: 6x7. Custo: 36 toras. Emprega 1-3 Fazendeiros. Dicas: Não requer sementes. Por favor, mantenha a frente desta construção livre para seus sacos de comida e não a use como um cais de passagem."; }
+		{ String _name = "Rice";				String _text = "Arroz"; }
+
 	]
 }
 

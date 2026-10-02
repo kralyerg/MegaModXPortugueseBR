@@ -365,6 +365,24 @@ StringTable graphTypes
 		{ String _name = "Type20";			String _text = "Diversos"; }
 		{ String _name = "Type21";			String _text = "Reservado"; }
 		{ String _name = "Type22";			String _text = "Reservado"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "CandlesBeeswaxRequire";				String _text = "4-5 Velas (3 Cera de Abelha + 1 Lenha)"; }
+		{ String _name = "CandlesTallowRequire";				String _text = "4-5 Velas (3 Sebo + 1 Lenha)"; }
+		{ String _name = "CopperToolRequire";				String _text = "1-2 Ferramentas de Cobre (1 Cobre + 1 Tora)"; }
+		{ String _name = "DSSVBannock1Require";				String _text = "18-20 Bannocks (17 Trigo + 1 Água)"; }
+		{ String _name = "DSSVBannock2Require";				String _text = "18-20 Bannocks (17 Milho + 1 Água)"; }
+		{ String _name = "DSSVPasture1";				String _text = "Pasto da Vila, cerca de toras"; }
+		{ String _name = "DSSVPasture1Lwr";				String _text = "pasto da vila cerca de toras"; }
+		{ String _name = "DSSVPasture1Tip";				String _text = "Um Pasto cercado com toras para animais. Uma textura de solo semitransparente. Tamanho do lote = 7x7min - 34x34max. 1 Tora + 1 de trabalho para construir por lote."; }
+		{ String _name = "DSSVProdRemoveButton";				String _text = "Remover"; }
+		{ String _name = "DSSVProdRemoveButtonLwr";				String _text = "remover"; }
+		{ String _name = "DSSVProdRemoveButtonTip";				String _text = "Remover"; }
+		{ String _name = "FishingGearRequireCopper";				String _text = "7-8 Ferramentas:Pescador (1 Cobre + 3 Toras)"; }
+		{ String _name = "HuntingGearRequireCopper";				String _text = "7-8 Ferramentas:Caçador (1 Cobre + 3 Toras)"; }
+		{ String _name = "ToolStonecutterRequire";				String _text = "5-8 Ferramentas:Pedreiro (1 Ferro + 1 Carvão Vegetal + 1 Tora)"; }
+		{ String _name = "WagonPartsRequire";				String _text = "1-2 Peças de Carroça (5 Toras + 2 Ferro)"; }
+
 	]
 }
 

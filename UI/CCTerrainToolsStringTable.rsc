@@ -37,5 +37,26 @@ StringTable resource
 
 		{ String _name = "FlattenCCNuke";					String _text = "Ferramenta de Nivelamento Poderosa"; }
 		{ String _name = "FlattenCCNukeTip";				String _text = "Nivela o terreno, incluindo as árvores das montanhas. Destrói instantaneamente todos os recursos. Tenha cuidado, use por sua conta e risco."; }
+
+		// --- Terraform tier-3 entries merged 2026-10-01 ---
+		{ String _name = "Terraform3Down1";			String _text = "Terraformar 3 Descer1"; }
+		{ String _name = "Terraform3Down1Lwr";			String _text = "Terraformar 3 Descer1"; }
+		{ String _name = "Terraform3Down1Tip";			String _text = "Terraformar 3 Descer1"; }
+		{ String _name = "Terraform3Down2";			String _text = "Terraformar 3 Descer2"; }
+		{ String _name = "Terraform3Down2Lwr";			String _text = "Terraformar 3 Descer2"; }
+		{ String _name = "Terraform3Down2Tip";			String _text = "Terraformar 3 Descer2"; }
+		{ String _name = "Terraform3Up1";			String _text = "Terraformar 3 Subir1"; }
+		{ String _name = "Terraform3Up1Lwr";			String _text = "Terraformar 3 Subir1"; }
+		{ String _name = "Terraform3Up1Tip";			String _text = "Terraformar 3 Subir1"; }
+		{ String _name = "Terraform3Up2";			String _text = "Terraformar 3 Subir2"; }
+		{ String _name = "Terraform3Up2Lwr";			String _text = "Terraformar 3 Subir2"; }
+		{ String _name = "Terraform3Up2Tip";			String _text = "Terraformar 3 Subir2"; }
+		{ String _name = "Terraform3Up3";			String _text = "Terraformar 3 Subir3"; }
+		{ String _name = "Terraform3Up3Lwr";			String _text = "Terraformar 3 Subir3"; }
+		{ String _name = "Terraform3Up3Tip";			String _text = "Terraformar 3 Subir3"; }
+		{ String _name = "Terraform3Zero";			String _text = "Terraformar 3 Zero"; }
+		{ String _name = "Terraform3ZeroLwr";			String _text = "Terraformar 3 Zero"; }
+		{ String _name = "Terraform3ZeroTip";			String _text = "Terraformar 3 Zero"; }
+
 	]
 }

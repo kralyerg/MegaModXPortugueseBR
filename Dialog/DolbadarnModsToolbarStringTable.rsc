@@ -47,5 +47,11 @@ StringTable resource
 		{ String _name = "Dolbadarnremove";	String _text = "Dolbadarn Remover"; }
 		{ String _name = "DolbadarnremoveLwr";	String _text = "Dolbadarn remover"; }
 		{ String _name = "DolbadarnremoveTip";	String _text = "Barra de ferramentas de remoção Dolbadarn."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Dolbadarntoolbar";				String _text = "Barra de Ferramentas Dolbadarn"; }
+		{ String _name = "DolbadarntoolbarLwr";				String _text = "barra de ferramentas dolbadarn"; }
+		{ String _name = "DolbadarntoolbarTip";				String _text = "Barra de ferramentas dos mods Dolbadarn."; }
+
 	]
 }

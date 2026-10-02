@@ -142,6 +142,157 @@ StringTable resource
 		{ String _name = "Brick";					String _text = "Tijolo"; }
 		{ String _name = "RoofTile";					String _text = "Telha"; }
 		{ String _name = "Glass";					String _text = "Vidro"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "HostelF1C1T1";				String _text = "Hospedaria - 1º andar"; }
+		{ String _name = "HostelF1C1T1Lwr";				String _text = "hospedaria - 1º andar"; }
+		{ String _name = "HostelF1C1T1Tip";				String _text = "Uma Hospedaria - 1º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:92"; }
+		{ String _name = "HostelF1C1T2";				String _text = "Hospedaria - 1º andar"; }
+		{ String _name = "HostelF1C1T2Lwr";				String _text = "hospedaria - 1º andar"; }
+		{ String _name = "HostelF1C1T2Tip";				String _text = "Uma Hospedaria - 1º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:92"; }
+		{ String _name = "HostelF1C1T3";				String _text = "Hospedaria - 1º andar"; }
+		{ String _name = "HostelF1C1T3Lwr";				String _text = "hospedaria - 1º andar"; }
+		{ String _name = "HostelF1C1T3Tip";				String _text = "Uma Hospedaria - 1º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:106"; }
+		{ String _name = "HostelF1C1T4";				String _text = "Hospedaria - 1º andar"; }
+		{ String _name = "HostelF1C1T4Lwr";				String _text = "hospedaria - 1º andar"; }
+		{ String _name = "HostelF1C1T4Tip";				String _text = "Uma Hospedaria - 1º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:106"; }
+		{ String _name = "HostelF1C1T5";				String _text = "Hospedaria - 1º andar"; }
+		{ String _name = "HostelF1C1T5Lwr";				String _text = "hospedaria - 1º andar"; }
+		{ String _name = "HostelF1C1T5Tip";				String _text = "Uma Hospedaria - 1º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:100"; }
+		{ String _name = "HostelF1C1T6";				String _text = "Hospedaria - 1º andar"; }
+		{ String _name = "HostelF1C1T6Lwr";				String _text = "hospedaria - 1º andar"; }
+		{ String _name = "HostelF1C1T6Tip";				String _text = "Uma Hospedaria - 1º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:98"; }
+		{ String _name = "HostelF1C1T7";				String _text = "Hospedaria - 1º andar"; }
+		{ String _name = "HostelF1C1T7Lwr";				String _text = "hospedaria - 1º andar"; }
+		{ String _name = "HostelF1C1T7Tip";				String _text = "Uma Hospedaria - 1º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:98"; }
+		{ String _name = "HostelF1C1T8";				String _text = "Hospedaria - 1º andar"; }
+		{ String _name = "HostelF1C1T8Lwr";				String _text = "hospedaria - 1º andar"; }
+		{ String _name = "HostelF1C1T8Tip";				String _text = "Uma Hospedaria - 1º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:72"; }
+		{ String _name = "HostelF2C1T1";				String _text = "Hospedaria - 2º andar"; }
+		{ String _name = "HostelF2C1T1Lwr";				String _text = "hospedaria - 2º andar"; }
+		{ String _name = "HostelF2C1T1Tip";				String _text = "Uma Hospedaria - 2º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:96"; }
+		{ String _name = "HostelF2C1T2";				String _text = "Hospedaria - 2º andar"; }
+		{ String _name = "HostelF2C1T2Lwr";				String _text = "hospedaria - 2º andar"; }
+		{ String _name = "HostelF2C1T2Tip";				String _text = "Uma Hospedaria - 2º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:96"; }
+		{ String _name = "HostelF2C1T3";				String _text = "Hospedaria - 2º andar"; }
+		{ String _name = "HostelF2C1T3Tip";				String _text = "Uma Hospedaria - 2º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:110"; }
+		{ String _name = "HostelF2C1T4";				String _text = "Hospedaria - 2º andar"; }
+		{ String _name = "HostelF2C1T4Lwr";				String _text = "hospedaria - 2º andar"; }
+		{ String _name = "HostelF2C1T4Tip";				String _text = "Uma Hospedaria - 2º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:110"; }
+		{ String _name = "HostelF2C1T5";				String _text = "Hospedaria - 2º andar"; }
+		{ String _name = "HostelF2C1T5Lwr";				String _text = "hospedaria - 2º andar"; }
+		{ String _name = "HostelF2C1T5Tip";				String _text = "Uma Hospedaria - 2º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:104"; }
+		{ String _name = "HostelF2C1T6";				String _text = "Hospedaria - 2º andar"; }
+		{ String _name = "HostelF2C1T6Lwr";				String _text = "hospedaria - 2º andar"; }
+		{ String _name = "HostelF2C1T6Tip";				String _text = "Uma Hospedaria - 2º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:102"; }
+		{ String _name = "HostelF2C1T7";				String _text = "Hospedaria - 2º andar"; }
+		{ String _name = "HostelF2C1T7Lwr";				String _text = "hospedaria - 2º andar"; }
+		{ String _name = "HostelF2C1T7Tip";				String _text = "Uma Hospedaria - 2º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:102"; }
+		{ String _name = "HostelF2C1T8";				String _text = "Hospedaria - 2º andar"; }
+		{ String _name = "HostelF2C1T8Lwr";				String _text = "hospedaria - 2º andar"; }
+		{ String _name = "HostelF2C1T8Tip";				String _text = "Uma Hospedaria - 2º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:76"; }
+		{ String _name = "HostelF2vT3Lwr";				String _text = "hospedaria - 2º andar"; }
+		{ String _name = "HostelF3C1T1";				String _text = "Hospedaria - 3º andar"; }
+		{ String _name = "HostelF3C1T1Lwr";				String _text = "hospedaria - 3º andar"; }
+		{ String _name = "HostelF3C1T1Tip";				String _text = "Uma Hospedaria - 3º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:100"; }
+		{ String _name = "HostelF3C1T2";				String _text = "Hospedaria - 3º andar"; }
+		{ String _name = "HostelF3C1T2Lwr";				String _text = "hospedaria - 3º andar"; }
+		{ String _name = "HostelF3C1T2Tip";				String _text = "Uma Hospedaria - 3º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:100"; }
+		{ String _name = "HostelF3C1T3";				String _text = "Hospedaria - 3º andar"; }
+		{ String _name = "HostelF3C1T3Lwr";				String _text = "hospedaria - 3º andar"; }
+		{ String _name = "HostelF3C1T3Tip";				String _text = "Uma Hospedaria - 3º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:114"; }
+		{ String _name = "HostelF3C1T4";				String _text = "Hospedaria - 3º andar"; }
+		{ String _name = "HostelF3C1T4Lwr";				String _text = "hospedaria - 3º andar"; }
+		{ String _name = "HostelF3C1T4Tip";				String _text = "Uma Hospedaria - 3º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:114"; }
+		{ String _name = "HostelF3C1T5";				String _text = "Hospedaria - 3º andar"; }
+		{ String _name = "HostelF3C1T5Lwr";				String _text = "hospedaria - 3º andar"; }
+		{ String _name = "HostelF3C1T5Tip";				String _text = "Uma Hospedaria - 3º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:108"; }
+		{ String _name = "HostelF3C1T6";				String _text = "Hospedaria - 3º andar"; }
+		{ String _name = "HostelF3C1T6Lwr";				String _text = "hospedaria - 3º andar"; }
+		{ String _name = "HostelF3C1T6Tip";				String _text = "Uma Hospedaria - 3º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:106"; }
+		{ String _name = "HostelF3C1T7";				String _text = "Hospedaria - 3º andar"; }
+		{ String _name = "HostelF3C1T7Lwr";				String _text = "hospedaria - 3º andar"; }
+		{ String _name = "HostelF3C1T7Tip";				String _text = "Uma Hospedaria - 3º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:106"; }
+		{ String _name = "HostelF3C1T8";				String _text = "Hospedaria - 3º andar"; }
+		{ String _name = "HostelF3C1T8Lwr";				String _text = "hospedaria - 3º andar"; }
+		{ String _name = "HostelF3C1T8Tip";				String _text = "Uma Hospedaria - 3º andar é usada para alojar seus cidadãos quando eles não têm casa própria. FuelPerResource:80"; }
+		{ String _name = "HostelToolbar";				String _text = "Barra de Ferramentas: Hospedaria de Canto"; }
+		{ String _name = "HostelToolbarLwr";				String _text = "barra de ferramentas: hospedaria de canto"; }
+		{ String _name = "HostelToolbarTip";				String _text = "Barra de Ferramentas: Hospedaria de Canto. Abra esta barra de ferramentas para acessar as opções da Hospedaria de Canto."; }
+		{ String _name = "Lumber";				String _text = "Madeira Serrada"; }
+		{ String _name = "NMT3F1C1T1";				String _text = "Prédio Multiandar - 1º andar"; }
+		{ String _name = "NMT3F1C1T1Lwr";				String _text = "prédio multiandar - 1º andar"; }
+		{ String _name = "NMT3F1C1T1Tip";				String _text = "Uma casa NMT Multiandar - 1º andar é usada para alojar seus cidadãos. FuelPerResource:92"; }
+		{ String _name = "NMT3F1C1T2";				String _text = "Prédio Multiandar - 1º andar"; }
+		{ String _name = "NMT3F1C1T2Lwr";				String _text = "prédio multiandar - 1º andar"; }
+		{ String _name = "NMT3F1C1T2Tip";				String _text = "Uma casa NMT Multiandar - 1º andar é usada para alojar seus cidadãos. FuelPerResource:92"; }
+		{ String _name = "NMT3F1C1T3";				String _text = "Prédio Multiandar - 1º andar"; }
+		{ String _name = "NMT3F1C1T3Lwr";				String _text = "prédio multiandar - 1º andar"; }
+		{ String _name = "NMT3F1C1T3Tip";				String _text = "Uma casa NMT Multiandar - 1º andar é usada para alojar seus cidadãos. FuelPerResource:106"; }
+		{ String _name = "NMT3F1C1T4";				String _text = "Prédio Multiandar - 1º andar"; }
+		{ String _name = "NMT3F1C1T4Lwr";				String _text = "prédio multiandar - 1º andar"; }
+		{ String _name = "NMT3F1C1T4Tip";				String _text = "Uma casa NMT Multiandar - 1º andar é usada para alojar seus cidadãos. FuelPerResource:106"; }
+		{ String _name = "NMT3F1C1T5";				String _text = "Prédio Multiandar - 1º andar"; }
+		{ String _name = "NMT3F1C1T5Lwr";				String _text = "prédio multiandar - 1º andar"; }
+		{ String _name = "NMT3F1C1T5Tip";				String _text = "Uma casa NMT Multiandar - 1º andar é usada para alojar seus cidadãos. FuelPerResource:100"; }
+		{ String _name = "NMT3F1C1T6";				String _text = "Prédio Multiandar - 1º andar"; }
+		{ String _name = "NMT3F1C1T6Lwr";				String _text = "prédio multiandar - 1º andar"; }
+		{ String _name = "NMT3F1C1T6Tip";				String _text = "Uma casa NMT Multiandar - 1º andar é usada para alojar seus cidadãos. FuelPerResource:98"; }
+		{ String _name = "NMT3F1C1T7";				String _text = "Prédio Multiandar - 1º andar"; }
+		{ String _name = "NMT3F1C1T7Lwr";				String _text = "prédio multiandar - 1º andar"; }
+		{ String _name = "NMT3F1C1T7Tip";				String _text = "Uma casa NMT Multiandar - 1º andar é usada para alojar seus cidadãos. FuelPerResource:98"; }
+		{ String _name = "NMT3F1C1T8";				String _text = "Prédio Multiandar - 1º andar"; }
+		{ String _name = "NMT3F1C1T8Lwr";				String _text = "prédio multiandar - 1º andar"; }
+		{ String _name = "NMT3F1C1T8Tip";				String _text = "Uma casa NMT Multiandar - 1º andar é usada para alojar seus cidadãos. FuelPerResource:72"; }
+		{ String _name = "NMT3F2C1T1";				String _text = "Prédio Multiandar - 2º andar"; }
+		{ String _name = "NMT3F2C1T1Lwr";				String _text = "prédio multiandar - 2º andar"; }
+		{ String _name = "NMT3F2C1T1Tip";				String _text = "Uma casa NMT Multiandar - 2º andar é usada para alojar seus cidadãos. FuelPerResource:96"; }
+		{ String _name = "NMT3F2C1T2";				String _text = "Prédio Multiandar - 2º andar"; }
+		{ String _name = "NMT3F2C1T2Lwr";				String _text = "prédio multiandar - 2º andar"; }
+		{ String _name = "NMT3F2C1T2Tip";				String _text = "Uma casa NMT Multiandar - 2º andar é usada para alojar seus cidadãos. FuelPerResource:96"; }
+		{ String _name = "NMT3F2C1T3";				String _text = "Prédio Multiandar - 2º andar"; }
+		{ String _name = "NMT3F2C1T3Tip";				String _text = "Uma casa NMT Multiandar - 2º andar é usada para alojar seus cidadãos. FuelPerResource:110"; }
+		{ String _name = "NMT3F2C1T4";				String _text = "Prédio Multiandar - 2º andar"; }
+		{ String _name = "NMT3F2C1T4Lwr";				String _text = "prédio multiandar - 2º andar"; }
+		{ String _name = "NMT3F2C1T4Tip";				String _text = "Uma casa NMT Multiandar - 2º andar é usada para alojar seus cidadãos. FuelPerResource:110"; }
+		{ String _name = "NMT3F2C1T5";				String _text = "Prédio Multiandar - 2º andar"; }
+		{ String _name = "NMT3F2C1T5Lwr";				String _text = "prédio multiandar - 2º andar"; }
+		{ String _name = "NMT3F2C1T5Tip";				String _text = "Uma casa NMT Multiandar - 2º andar é usada para alojar seus cidadãos. FuelPerResource:104"; }
+		{ String _name = "NMT3F2C1T6";				String _text = "Prédio Multiandar - 2º andar"; }
+		{ String _name = "NMT3F2C1T6Lwr";				String _text = "prédio multiandar - 2º andar"; }
+		{ String _name = "NMT3F2C1T6Tip";				String _text = "Uma casa NMT Multiandar - 2º andar é usada para alojar seus cidadãos. FuelPerResource:102"; }
+		{ String _name = "NMT3F2C1T7";				String _text = "Prédio Multiandar - 2º andar"; }
+		{ String _name = "NMT3F2C1T7Lwr";				String _text = "prédio multiandar - 2º andar"; }
+		{ String _name = "NMT3F2C1T7Tip";				String _text = "Uma casa NMT Multiandar - 2º andar é usada para alojar seus cidadãos. FuelPerResource:102"; }
+		{ String _name = "NMT3F2C1T8";				String _text = "Prédio Multiandar - 2º andar"; }
+		{ String _name = "NMT3F2C1T8Lwr";				String _text = "prédio multiandar - 2º andar"; }
+		{ String _name = "NMT3F2C1T8Tip";				String _text = "Uma casa NMT Multiandar - 2º andar é usada para alojar seus cidadãos. FuelPerResource:76"; }
+		{ String _name = "NMT3F2vT3Lwr";				String _text = "prédio multiandar - 2º andar"; }
+		{ String _name = "NMT3F3C1T1";				String _text = "Prédio Multiandar - 3º andar"; }
+		{ String _name = "NMT3F3C1T1Lwr";				String _text = "prédio multiandar - 3º andar"; }
+		{ String _name = "NMT3F3C1T1Tip";				String _text = "Uma casa NMT Multiandar - 3º andar é usada para alojar seus cidadãos. FuelPerResource:100"; }
+		{ String _name = "NMT3F3C1T2";				String _text = "Prédio Multiandar - 3º andar"; }
+		{ String _name = "NMT3F3C1T2Lwr";				String _text = "prédio multiandar - 3º andar"; }
+		{ String _name = "NMT3F3C1T2Tip";				String _text = "Uma casa NMT Multiandar - 3º andar é usada para alojar seus cidadãos. FuelPerResource:100"; }
+		{ String _name = "NMT3F3C1T3";				String _text = "Prédio Multiandar - 3º andar"; }
+		{ String _name = "NMT3F3C1T3Lwr";				String _text = "prédio multiandar - 3º andar"; }
+		{ String _name = "NMT3F3C1T3Tip";				String _text = "Uma casa NMT Multiandar - 3º andar é usada para alojar seus cidadãos. FuelPerResource:114"; }
+		{ String _name = "NMT3F3C1T4";				String _text = "Prédio Multiandar - 3º andar"; }
+		{ String _name = "NMT3F3C1T4Lwr";				String _text = "prédio multiandar - 3º andar"; }
+		{ String _name = "NMT3F3C1T4Tip";				String _text = "Uma casa NMT Multiandar - 3º andar é usada para alojar seus cidadãos. FuelPerResource:114"; }
+		{ String _name = "NMT3F3C1T5";				String _text = "Prédio Multiandar - 3º andar"; }
+		{ String _name = "NMT3F3C1T5Lwr";				String _text = "prédio multiandar - 3º andar"; }
+		{ String _name = "NMT3F3C1T5Tip";				String _text = "Uma casa NMT Multiandar - 3º andar é usada para alojar seus cidadãos. FuelPerResource:108"; }
+		{ String _name = "NMT3F3C1T6";				String _text = "Prédio Multiandar - 3º andar"; }
+		{ String _name = "NMT3F3C1T6Lwr";				String _text = "prédio multiandar - 3º andar"; }
+		{ String _name = "NMT3F3C1T6Tip";				String _text = "Uma casa NMT Multiandar - 3º andar é usada para alojar seus cidadãos. FuelPerResource:106"; }
+		{ String _name = "NMT3F3C1T7";				String _text = "Prédio Multiandar - 3º andar"; }
+		{ String _name = "NMT3F3C1T7Lwr";				String _text = "prédio multiandar - 3º andar"; }
+		{ String _name = "NMT3F3C1T7Tip";				String _text = "Uma casa NMT Multiandar - 3º andar é usada para alojar seus cidadãos FuelPerResource:106."; }
+		{ String _name = "NMT3F3C1T8";				String _text = "Prédio Multiandar - 3º andar"; }
+		{ String _name = "NMT3F3C1T8Lwr";				String _text = "prédio multiandar - 3º andar"; }
+		{ String _name = "NMT3F3C1T8Tip";				String _text = "Uma casa NMT Multiandar - 3º andar é usada para alojar seus cidadãos. FuelPerResource:80"; }
+
 	]
 }
 

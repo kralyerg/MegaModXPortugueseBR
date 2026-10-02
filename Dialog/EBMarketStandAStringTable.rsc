@@ -37,5 +37,11 @@ StringTable resource
 		{ String _name = "EBFarmStand";						String _text = "Barraca de Fazenda"; }
 		{ String _name = "EBFarmStandLwr";					String _text = "barraca de fazenda"; }
 		{ String _name = "EBFarmStandTip";					String _text = "A Barraca de Fazenda é usada para fornecer uma área localizada para os cidadãos coletarem comida, combustível, ferramentas, Têxteis, Tecidos e roupas. Até 2 Vendedores podem ser empregados. Ciclo de Construção: 32."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "ToolbarMarkets";				String _text = "Barra de Ferramentas de Mercados"; }
+		{ String _name = "ToolbarMarketsLwr";				String _text = "barra de ferramentas de mercados"; }
+		{ String _name = "ToolbarMarketsTip";				String _text = "Barra de Ferramentas de Mercados."; }
+
 	]
 }

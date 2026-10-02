@@ -112,6 +112,11 @@ StringTable resource
 		{ String _name = "Coffeebean";					String _text = "Grãos de Café"; }
 
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Mulberrywhite";				String _text = "Amoreira Branca"; }
+		{ String _name = "WhiteMulberry";				String _text = "Folhas de Amoreira Branca"; }
+
 	]
 }
 

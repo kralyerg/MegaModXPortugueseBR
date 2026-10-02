@@ -5,5 +5,9 @@ StringTable objects
 		{ String _name = "EBChurch";				String _text = "Igreja"; }
 		{ String _name = "EBChurchLwr";				String _text = "igreja"; }
 		{ String _name = "EBChurchTip";				String _text = "Fornece felicidade para os devotos e um lugar para se reunir e adorar. Capacidade de 400 pessoas. Ciclo de Construção: 280."; }		
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Glass";				String _text = "Vidro"; }
+
 	]
 }

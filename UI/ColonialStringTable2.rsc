@@ -636,13 +636,13 @@ StringTable resource
 		{ String _name = "AlePeachRequire";						String _text = "Cerveja [Pêssego]"; }
 		{ String _name = "AleWheatRequire";						String _text = "Cerveja [Trigo]"; }
 
-		{ String _name = "LiquorSugarRequire";					String _text = "Cachaça [Cana-de-açúcar + Vidraria + Lenha]"; }
-		{ String _name = "LiquorAppleRequire";					String _text = "Applejack [Maçã + Vidraria + Lenha]"; }
-		{ String _name = "LiquorSorghumRequire";				String _text = "Baijiu [Sorgo + Vidraria + Lenha]"; }
-		{ String _name = "LiquorFigRequire";					String _text = "Raki [Figo + Vidraria + Lenha]"; }
-		{ String _name = "LiquorHerbsRequire";					String _text = "Krauterlikor [Ervas + Vidraria + Lenha]"; }
-		{ String _name = "LiquorPotatoesRequire";				String _text = "Vodka [Batata + Vidraria + Lenha]"; }
-		{ String _name = "LiquorBarleyRequire";					String _text = "Whiskey [Cevada + Vidraria + Lenha]"; }
+		{ String _name = "LiquorSugarRequire";					String _text = "Cachaça [Cana-de-açúcar + Vidraria + Combustível de Forno]"; }
+		{ String _name = "LiquorAppleRequire";					String _text = "Applejack [Maçã + Vidraria + Combustível de Forno]"; }
+		{ String _name = "LiquorSorghumRequire";				String _text = "Baijiu [Sorgo + Vidraria + Combustível de Forno]"; }
+		{ String _name = "LiquorFigRequire";					String _text = "Raki [Figo + Vidraria + Combustível de Forno]"; }
+		{ String _name = "LiquorHerbsRequire";					String _text = "Krauterlikor [Ervas + Vidraria + Combustível de Forno]"; }
+		{ String _name = "LiquorPotatoesRequire";				String _text = "Vodka [Batata + Vidraria + Combustível de Forno]"; }
+		{ String _name = "LiquorBarleyRequire";					String _text = "Uísque [Cevada + Vidraria + Combustível de Forno]"; }
 
 		{ String _name = "CheeseRequire";						String _text = "Queijo [Leite]"; }
 		{ String _name = "CreamRequire";						String _text = "Creme [Leite]"; }

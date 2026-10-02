@@ -134,5 +134,26 @@ StringTable resource
 		{ String _name = "SeedOilPecanRequire";							String _text = "Óleo de Sementes [25 Pecã + 1 Ânfora]"; }
 		{ String _name = "SeedOilWalnutRequire";						String _text = "Óleo de Sementes [25 Noz + 1 Ânfora]"; }
 		{ String _name = "VegetableOilSunflowerRequire";				String _text = "Óleo Vegetal [25 Grãos + 1 Ânfora]"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Brick";				String _text = "Tijolo"; }
+		{ String _name = "Charcoal";				String _text = "Carvão Vegetal"; }
+		{ String _name = "Custom5Limit";				String _text = "Limite de Construção"; }
+		{ String _name = "Custom5LimitShort";				String _text = "Construção"; }
+		{ String _name = "Custom5LimitTip";				String _text = "controla a quantidade de materiais de construção armazenados. Quando esse limite for atingido, a produção cessará."; }
+		{ String _name = "EBSVBrickCharCoalRequire";				String _text = "Tijolo [10 Argila + 3 Carvão Vegetal]"; }
+		{ String _name = "EBSVBrickCoalRequire";				String _text = "Tijolo [10 Argila + 3 Carvão]"; }
+		{ String _name = "EBSVGlassCharCoalRequire";				String _text = "Vidro [23 Areia + 3 Carvão Vegetal]"; }
+		{ String _name = "EBSVGlassCoalRequire";				String _text = "Vidro [23 Areia + 3 Carvão]"; }
+		{ String _name = "EBSVLumberRequire";				String _text = "Madeira Serrada [4 Madeira Bruta]"; }
+		{ String _name = "EBSVWorkShop";				String _text = "Oficina da Vila"; }
+		{ String _name = "EBSVWorkShopLwr";				String _text = "oficina da vila"; }
+		{ String _name = "EBSVWorkShopTip";				String _text = "a Oficina da Vila produz Tijolos, Vidro e Madeira Serrada. Até 2 Artesãos podem ser empregados para produzir de 6 a 8 Tijolos a partir de 10 Argila e 3 Carvão ou 3 Carvão Vegetal. De 7 a 8 Vidro a partir de 23 Areia e 3 Carvão ou 3 Carvão Vegetal. De 4 a 5 Madeira Serrada a partir de 4 toras. Ciclos de Construção: 94. 2 Variações de Cor com Tecla F."; }
+		{ String _name = "Glass";				String _text = "Vidro"; }
+		{ String _name = "Lumber";				String _text = "Madeira Serrada"; }
+		{ String _name = "ProfessionCraftsman";				String _text = "Artesão"; }
+		{ String _name = "ProfessionCraftsmanDeath";				String _text = "foi esmagado por uma pilha de tijolos que desabou."; }
+		{ String _name = "ProfessionCraftsmanTip";				String _text = "o Artesão produz Vidro, Tijolos e Madeira Serrada na Oficina."; }
+
 	]
 }		

@@ -1147,14 +1147,14 @@ StringTable resource
 		{ String _name = "NMAleWheatHopsRequire";			String _text = "Produzir Cerveja [Trigo + Lúpulo]"; }
 		{ String _name = "NMAleBarleyHopsRequire";			String _text = "Produzir Cerveja [Cevada + Lúpulo]"; }
 		{ String _name = "NMAleSorghumHopsRequire";			String _text = "Produzir Cerveja [Sorgo + Lúpulo]"; }
-		{ String _name = "NMAleVolkaRequire";				String _text = "Produzir Ale [Batatas]"; }
-		{ String _name = "NMMeadHoneyRequire";				String _text = "Produzir Ale [Mel]"; }
-		{ String _name = "AleAppleRequire";				String _text = "Produzir Ale [Maçã]"; }
-		{ String _name = "AleBlueberryRequire";				String _text = "Produzir Ale [Frutas Silvestres]"; }
-		{ String _name = "AleCherryRequire";				String _text = "Produzir Ale [Cereja]"; }
-		{ String _name = "AlePearRequire";				String _text = "Produzir Ale [Pera]"; }
-		{ String _name = "AlePeachRequire";				String _text = "Produzir Ale [Pêssego]"; }
-		{ String _name = "AlePlumRequire";				String _text = "Produzir Ale [Ameixa]"; }
+		{ String _name = "NMAleVolkaRequire";				String _text = "Produzir Cerveja [Batatas]"; }
+		{ String _name = "NMMeadHoneyRequire";				String _text = "Produzir Cerveja [Mel]"; }
+		{ String _name = "AleAppleRequire";				String _text = "Produzir Cerveja [Maçã]"; }
+		{ String _name = "AleBlueberryRequire";				String _text = "Produzir Cerveja [Frutas Silvestres]"; }
+		{ String _name = "AleCherryRequire";				String _text = "Produzir Cerveja [Cereja]"; }
+		{ String _name = "AlePearRequire";				String _text = "Produzir Cerveja [Pera]"; }
+		{ String _name = "AlePeachRequire";				String _text = "Produzir Cerveja [Pêssego]"; }
+		{ String _name = "AlePlumRequire";				String _text = "Produzir Cerveja [Ameixa]"; }
 
 		{ String _name = "NMFlourBarleyRequire";			String _text = "Produzir Farinha [Cevada]"; }
 		{ String _name = "NMFlourSorghumRequire";			String _text = "Produzir Farinha [Sorgo]"; }
@@ -1334,9 +1334,9 @@ StringTable resource
 		{ String _name = "NewMedievalClayPitLwr";			String _text = "poço de argila medieval"; }
 		{ String _name = "NewMedievalClayPitTip";			String _text = "Um Poço de Argila Medieval fornece argila para sua cidade."; }
 
-		{ String _name = "NewMedievalAleStall";				String _text = "Barraca de Ale Medieval"; }
+		{ String _name = "NewMedievalAleStall";				String _text = "Barraca de Cerveja Medieval"; }
 		{ String _name = "NewMedievalAleStallLwr";			String _text = "barraca de ale medieval"; }
-		{ String _name = "NewMedievalAleStallTip";			String _text = "Barraca de Ale Medieval. Capacidade: 3000."; }
+		{ String _name = "NewMedievalAleStallTip";			String _text = "Barraca de Cerveja Medieval. Capacidade: 3000."; }
 
 		{ String _name = "NewMedievalPoteryShop";			String _text = "Oficina de Cerâmica Medieval"; }
 		{ String _name = "NewMedievalPoteryShopLwr";			String _text = "oficina de cerâmica medieval"; }

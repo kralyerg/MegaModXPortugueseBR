@@ -25,5 +25,24 @@ StringTable resource
 		{ String _name = "Custom7Limit";					String _text = "Limite de Diversos"; }
 		{ String _name = "Custom7LimitShort";				String _text = "Diversos"; }
 		{ String _name = "Custom7LimitTip";					String _text = "Controla a quantidade de itens Diversos armazenados. Quando esse limite for atingido, a produção cessará."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Amphora";				String _text = "Ânfora"; }
+		{ String _name = "Custom0Limit";				String _text = "Limite de Artesanato"; }
+		{ String _name = "Custom0LimitShort";				String _text = "Artesanato"; }
+		{ String _name = "Custom0LimitTip";				String _text = "controla a quantidade de itens artesanais armazenados. Quando esse limite for atingido, a produção cessará."; }
+		{ String _name = "Flax";				String _text = "Linho"; }
+		{ String _name = "LinSeedOilFlaxRequire";				String _text = "Óleo de Linhaça [25 Linho + 1 Ânfora]"; }
+		{ String _name = "LinseedOil";				String _text = "Óleo de Linhaça"; }
+		{ String _name = "SeedFlax";				String _text = "Semente de Linho"; }
+		{ String _name = "SeedOil";				String _text = "Óleo de Semente"; }
+		{ String _name = "SeedOilPecanRequire";				String _text = "Óleo de Semente [25 Pecã + 1 Ânfora]"; }
+		{ String _name = "SeedOilWalnutRequire";				String _text = "Óleo de Semente [25 Noz + 1 Ânfora]"; }
+		{ String _name = "SeedSunflower";				String _text = "Semente de Girassol"; }
+		{ String _name = "Sunflower";				String _text = "Girassol"; }
+		{ String _name = "SunflowerK";				String _text = "Miolos"; }
+		{ String _name = "VegetableOil";				String _text = "Óleo Vegetal"; }
+		{ String _name = "VegetableOilSunflowerRequire";				String _text = "Óleo Vegetal [25 Miolos + 1 Ânfora]"; }
+
 	]
 }

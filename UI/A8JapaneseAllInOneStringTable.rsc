@@ -344,5 +344,95 @@ StringTable resource
 		{ String _name = "DeerscareLwr";				String _text = "Espanta-Veados"; }
 		{ String _name = "DeerscareTip";				String _text = "Aquilo que faz 'donk'"; }
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "AinuChise";				String _text = "Ainu Chise"; }
+		{ String _name = "AinuChiseLwr";				String _text = "Ainu Chise"; }
+		{ String _name = "AinuChiseTip";				String _text = "A casa tradicional do povo Ainu. Espaço para 7"; }
+		{ String _name = "BengaraHouse";				String _text = "Casa Bengara"; }
+		{ String _name = "BengaraHouseLwr";				String _text = "Casa Bengara"; }
+		{ String _name = "BengaraHouseTip";				String _text = "Uma casa colorida com pigmento mineral bengara. Espaço para 6"; }
+		{ String _name = "BoatbuildersHouse";				String _text = "Casa do Construtor de Barcos"; }
+		{ String _name = "BoatbuildersHouseLwr";				String _text = "Casa do Construtor de Barcos"; }
+		{ String _name = "BoatbuildersHouseTip";				String _text = "Uma casa portuária de madeira. Espaço para 5."; }
+		{ String _name = "BoxofHolding";				String _text = "Caixa de Bichos-da-seda"; }
+		{ String _name = "BoxofHoldingLwr";				String _text = "Caixa de Bichos-da-seda"; }
+		{ String _name = "BoxofHoldingTip";				String _text = "Uma cesta decorativa de bichos-da-seda"; }
+		{ String _name = "GasshoFarmhouse";				String _text = "Casa de Fazenda Gassho"; }
+		{ String _name = "GasshoFarmhouseLwr";				String _text = "Casa de Fazenda Gassho"; }
+		{ String _name = "GasshoFarmhouseTip";				String _text = "Uma grande casa de fazenda construída no estilo Gassho. Espaço para 8"; }
+		{ String _name = "GasshoKura";				String _text = "Gassho Kura"; }
+		{ String _name = "GasshoKuraLwr";				String _text = "Gassho Kura"; }
+		{ String _name = "GasshoKuraTip";				String _text = "Um anexo de armazenamento que combina com a casa de fazenda"; }
+		{ String _name = "HeianMachiya";				String _text = "Heian Machiya"; }
+		{ String _name = "HeianMachiyaLwr";				String _text = "Heian Machiya"; }
+		{ String _name = "HeianMachiyaTip";				String _text = "Uma casa urbana do período Heian. Espaço para 5"; }
+		{ String _name = "HonmuneFarmhouse";				String _text = "Casa de Fazenda Honmune"; }
+		{ String _name = "HonmuneFarmhouseLwr";				String _text = "Casa de Fazenda Honmune"; }
+		{ String _name = "HonmuneFarmhouseTip";				String _text = "Uma casa de fazenda baixa com decoração no telhado. Espaço para 7"; }
+		{ String _name = "IchijodaniMachiya";				String _text = "Ichijodani Machiya"; }
+		{ String _name = "IchijodaniMachiyaLwr";				String _text = "Ichijodani Machiya"; }
+		{ String _name = "IchijodaniMachiyaTip";				String _text = "Uma casa urbana perto do Rio Ichijodani. Espaço para 5"; }
+		{ String _name = "IwateInn";				String _text = "Estalagem Iwate"; }
+		{ String _name = "IwateInnLwr";				String _text = "Estalagem Iwate"; }
+		{ String _name = "IwateInnTip";				String _text = "Uma estalagem rural de palha do período Edo. Um lar temporário para várias famílias."; }
+		{ String _name = "JapaneseHouseExtensionsLarge";				String _text = "Extensão de Casa Grande"; }
+		{ String _name = "JapaneseHouseExtensionsLargeLwr";				String _text = "Extensão de Casa Grande"; }
+		{ String _name = "JapaneseHouseExtensionsLargeTip";				String _text = "Um aposento adicional para uma casa. 4x1. Espaço para 3."; }
+		{ String _name = "JapaneseHouseExtensionsSmall";				String _text = "Extensão de Casa Pequena"; }
+		{ String _name = "JapaneseHouseExtensionsSmallLwr";				String _text = "Extensão de Casa Pequena"; }
+		{ String _name = "JapaneseHouseExtensionsSmallTip";				String _text = "Um aposento adicional para uma casa. 3x1. Espaço para 3."; }
+		{ String _name = "KitakataHouse";				String _text = "Casa Kitakata"; }
+		{ String _name = "KitakataHouseLwr";				String _text = "Casa Kitakata"; }
+		{ String _name = "KitakataHouseTip";				String _text = "Uma casa construída a partir de um kura convertido. Espaço para 5."; }
+		{ String _name = "Kura";				String _text = "Kura"; }
+		{ String _name = "KuraLwr";				String _text = "Kura"; }
+		{ String _name = "KuraTip";				String _text = "Armazéns com paredes grossas de argila"; }
+		{ String _name = "KurashikiHouse";				String _text = "Casa Kurashiki"; }
+		{ String _name = "KurashikiHouseLwr";				String _text = "Casa Kurashiki"; }
+		{ String _name = "KurashikiHouseTip";				String _text = "A casa urbana de um comerciante de arroz. Espaço para 6"; }
+		{ String _name = "KyotoFarmhouse";				String _text = "Casa de Fazenda de Kyoto"; }
+		{ String _name = "KyotoFarmhouseLwr";				String _text = "Casa de Fazenda de Kyoto"; }
+		{ String _name = "KyotoFarmhouseTip";				String _text = "Uma casa de fazenda de palha da região de Kyoto. Espaço para 7"; }
+		{ String _name = "LogKura";				String _text = "Kura de Toras"; }
+		{ String _name = "LogKuraLwr";				String _text = "Kura de Toras"; }
+		{ String _name = "LogKuraTip";				String _text = "Um armazém elevado feito de toras"; }
+		{ String _name = "MagariyaFarmhouse";				String _text = "Casa de Fazenda Magariya"; }
+		{ String _name = "MagariyaFarmhouseLwr";				String _text = "Casa de Fazenda Magariya"; }
+		{ String _name = "MagariyaFarmhouseTip";				String _text = "Uma casa de fazenda em formato de L com estábulos anexos para cavalos. Espaço para 6"; }
+		{ String _name = "MurataHouse";				String _text = "Casa Murata"; }
+		{ String _name = "MurataHouseLwr";				String _text = "Casa Murata"; }
+		{ String _name = "MurataHouseTip";				String _text = "Uma casa de um bairro de comerciantes. Espaço para 4."; }
+		{ String _name = "NagayaMachiya";				String _text = "Sobrado Nagaya"; }
+		{ String _name = "NagayaMachiyaLwr";				String _text = "Sobrado Nagaya"; }
+		{ String _name = "NagayaMachiyaTip";				String _text = "Um sobrado para uma rua movimentada da cidade. Espaço para 5."; }
+		{ String _name = "OkinawaHouse";				String _text = "Casa de Okinawa"; }
+		{ String _name = "OkinawaHouseLwr";				String _text = "Casa de Okinawa"; }
+		{ String _name = "OkinawaHouseTip";				String _text = "Uma casa de fazenda de Okinawa. Espaço para 6"; }
+		{ String _name = "PostTownHouse";				String _text = "Casa de Vila de Posto"; }
+		{ String _name = "PostTownHouseLwr";				String _text = "Casa de Vila de Posto"; }
+		{ String _name = "PostTownHouseTip";				String _text = "Uma casa em uma movimentada vila de posto. Espaço para 5."; }
+		{ String _name = "PostTownInn";				String _text = "Estalagem de Vila de Posto"; }
+		{ String _name = "PostTownInnLwr";				String _text = "Estalagem de Vila de Posto"; }
+		{ String _name = "PostTownInnTip";				String _text = "Uma estalagem para uma movimentada vila de posto. Um lar temporário para várias famílias."; }
+		{ String _name = "SawaraHouse";				String _text = "Casa Sawara"; }
+		{ String _name = "SawaraHouseLwr";				String _text = "Casa Sawara"; }
+		{ String _name = "SawaraHouseTip";				String _text = "Uma casa de uma cidade comercial ribeirinha. Espaço para 6."; }
+		{ String _name = "Takakura";				String _text = "Takakura"; }
+		{ String _name = "TakakuraLwr";				String _text = "Takakura"; }
+		{ String _name = "TakakuraTip";				String _text = "Um edifício de armazenamento elevado de palha"; }
+		{ String _name = "TakayamaMachiya";				String _text = "Takayama Machiya"; }
+		{ String _name = "TakayamaMachiyaLwr";				String _text = "Takayama Machiya"; }
+		{ String _name = "TakayamaMachiyaTip";				String _text = "Uma casa urbana da cidade administrativa de Takayama. Espaço para 5"; }
+		{ String _name = "TempleKura";				String _text = "Kura de Templo"; }
+		{ String _name = "TempleKuraLwr";				String _text = "Kura de Templo"; }
+		{ String _name = "TempleKuraTip";				String _text = "Um edifício de armazenamento no estilo de templos budistas"; }
+		{ String _name = "YayoiGranary";				String _text = "Celeiro Yayoi"; }
+		{ String _name = "YayoiGranaryLwr";				String _text = "Celeiro Yayoi"; }
+		{ String _name = "YayoiGranaryTip";				String _text = "Um edifício de armazenamento elevado para alimentos"; }
+		{ String _name = "YayoiPitHouse";				String _text = "Casa-Poço Yayoi"; }
+		{ String _name = "YayoiPitHouseLwr";				String _text = "Casa-Poço Yayoi"; }
+		{ String _name = "YayoiPitHouseTip";				String _text = "Um estilo antigo de construção, parcialmente enterrado na terra. Espaço para 8"; }
+
 	]
 }

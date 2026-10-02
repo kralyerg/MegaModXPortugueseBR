@@ -173,5 +173,67 @@ StringTable resource
 
 
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "DirtClear";				String _text = "[NR] Remover Estrada de Terra"; }
+		{ String _name = "DirtClearTip";				String _text = "Use esta ferramenta para remover a estrada de terra do NRMOD."; }
+		{ String _name = "DirtRoadTipz4";				String _text = "A estrada de terra permite que os moradores caminhem mais rápido."; }
+		{ String _name = "DirtRoadz0Tip";				String _text = "A estrada de terra permite que os moradores caminhem mais rápido."; }
+		{ String _name = "DirtRoadz10Tip";				String _text = "A estrada de terra permite que os moradores caminhem mais rápido."; }
+		{ String _name = "DirtRoadz11Tip";				String _text = "A estrada de terra permite que os moradores caminhem mais rápido."; }
+		{ String _name = "DirtRoadz12Tip";				String _text = "A estrada de terra permite que os moradores caminhem mais rápido."; }
+		{ String _name = "DirtRoadz13Tip";				String _text = "A estrada de terra permite que os moradores caminhem mais rápido."; }
+		{ String _name = "DirtRoadz14Tip";				String _text = "A estrada de terra permite que os moradores caminhem mais rápido."; }
+		{ String _name = "DirtRoadz1tip";				String _text = "A estrada de terra permite que os moradores caminhem mais rápido."; }
+		{ String _name = "DirtRoadz2TIP";				String _text = "A estrada de terra permite que os moradores caminhem mais rápido."; }
+		{ String _name = "DirtRoadz6Tip";				String _text = "A estrada de terra permite que os moradores caminhem mais rápido."; }
+		{ String _name = "DirtRoadz7Tip";				String _text = "A estrada de terra permite que os moradores caminhem mais rápido."; }
+		{ String _name = "DirtRoadz8Tip";				String _text = "A estrada de terra permite que os moradores caminhem mais rápido."; }
+		{ String _name = "DirtRoadz9Tip";				String _text = "A estrada de terra permite que os moradores caminhem mais rápido."; }
+		{ String _name = "DirtRoadzGroup";				String _text = "[NR] Grupo de Estradas de Terra"; }
+		{ String _name = "DirtRoadzGroupLwr";				String _text = "[NR] Grupo de Estradas de Terra"; }
+		{ String _name = "DirtRoadzTip5";				String _text = "A estrada de terra permite que os moradores caminhem mais rápido."; }
+		{ String _name = "EarthClear";				String _text = "[NR] Remover Estrada de Terra e Pedra"; }
+		{ String _name = "EarthClearLwr";				String _text = "[NR] Remover Estrada de Terra e Pedra"; }
+		{ String _name = "EarthClearTip";				String _text = "Use esta ferramenta para remover a estrada de terra e pedra do NRMOD."; }
+		{ String _name = "EarthRoadz0Tip";				String _text = "A estrada de terra e pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "EarthRoadz10Tip";				String _text = "A estrada de terra e pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "EarthRoadz11Tip";				String _text = "A estrada de terra e pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "EarthRoadz12Tip";				String _text = "A estrada de terra e pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "EarthRoadz13Tip";				String _text = "A estrada de terra e pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "EarthRoadz14Tip";				String _text = "A estrada de terra e pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "EarthRoadz1Tip";				String _text = "A estrada de terra e pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "EarthRoadz2Tip";				String _text = "A estrada de terra e pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "EarthRoadz3Tip";				String _text = "A estrada de terra e pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "EarthRoadz4Tip";				String _text = "A estrada de terra e pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "EarthRoadz5Tip";				String _text = "A estrada de terra e pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "EarthRoadz6Tip";				String _text = "A estrada de terra e pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "EarthRoadz7Tip";				String _text = "A estrada de terra e pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "EarthRoadz8Tip";				String _text = "A estrada de terra e pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "EarthRoadz9Tip";				String _text = "A estrada de terra e pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "EarthRoadzGroup";				String _text = "[NR] Grupo de Estradas de Terra e Pedra"; }
+		{ String _name = "EarthRoadzGroupLwr";				String _text = "[NR] Grupo de Estradas de Terra e Pedra"; }
+		{ String _name = "StoneClear";				String _text = "[NR] Remover Estrada de Lajes de Pedra"; }
+		{ String _name = "StoneClearLwr";				String _text = "[NR] Remover Estrada de Lajes de Pedra"; }
+		{ String _name = "StoneClearTip";				String _text = "Use esta ferramenta para remover a estrada de lajes de pedra do NRMOD."; }
+		{ String _name = "StoneRoadz0Tip";				String _text = "A estrada de lajes de pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "StoneRoadz10Tip";				String _text = "A estrada de lajes de pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "StoneRoadz11Tip";				String _text = "A estrada de lajes de pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "StoneRoadz12Tip";				String _text = "A estrada de lajes de pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "StoneRoadz13Tip";				String _text = "A estrada de lajes de pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "StoneRoadz14Tip";				String _text = "A estrada de lajes de pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "StoneRoadz1Tip";				String _text = "A estrada de lajes de pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "StoneRoadz2Tip";				String _text = "A estrada de lajes de pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "StoneRoadz3Tip";				String _text = "A estrada de lajes de pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "StoneRoadz4Tip";				String _text = "A estrada de lajes de pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "StoneRoadz5Tip";				String _text = "A estrada de lajes de pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "StoneRoadz6Tip";				String _text = "A estrada de lajes de pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "StoneRoadz7Tip";				String _text = "A estrada de lajes de pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "StoneRoadz8Tip";				String _text = "A estrada de lajes de pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "StoneRoadz9Tip";				String _text = "A estrada de lajes de pedra permite que os moradores caminhem ainda mais rápido."; }
+		{ String _name = "StoneRoadzGroup";				String _text = "[NR] Grupo de Estradas de Lajes de Pedra"; }
+		{ String _name = "StoneRoadzGroupLwr";				String _text = "[NR] Grupo de Estradas de Lajes de Pedra"; }
+		{ String _name = "TipDirtRoadz3";				String _text = "A estrada de terra permite que os moradores caminhem mais rápido."; }
+
 	]
 }

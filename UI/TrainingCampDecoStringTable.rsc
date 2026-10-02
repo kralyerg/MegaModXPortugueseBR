@@ -205,5 +205,38 @@ StringTable resource
 		{ String _name = "RKTrainingCampTrashLwr";			String _text = "descarte"; }
 		{ String _name = "RKTrainingCampTrashTip";			String _text = "Descarte este item do Acampamento de Treinamento e remova-o."; }
 		{ String _name = "RKTrainingCampTrashUpgradeTip";		String _text = "Descarte este item do Acampamento de Treinamento e remova-o."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "RKMCHorse1b";				String _text = "Cavalo"; }
+		{ String _name = "RKMCHorse1bLwr";				String _text = "cavalo"; }
+		{ String _name = "RKMCHorse1bTip";				String _text = "Cavalo Decorativo em ângulo de 45. (fantasma)"; }
+		{ String _name = "RKMCHorse2b";				String _text = "Cavalo"; }
+		{ String _name = "RKMCHorse2bLwr";				String _text = "cavalo"; }
+		{ String _name = "RKMCHorse2bTip";				String _text = "Cavalo Decorativo em ângulo de 45. (fantasma)"; }
+		{ String _name = "RKMCHorse3b";				String _text = "Cavalo"; }
+		{ String _name = "RKMCHorse3bLwr";				String _text = "cavalo"; }
+		{ String _name = "RKMCHorse3bTip";				String _text = "Cavalo Decorativo em ângulo de 45. (fantasma)"; }
+		{ String _name = "RKMCHorse4b";				String _text = "Cavalo"; }
+		{ String _name = "RKMCHorse4bLwr";				String _text = "cavalo"; }
+		{ String _name = "RKMCHorse4bTip";				String _text = "Cavalo Decorativo em ângulo de 45. (fantasma)"; }
+		{ String _name = "RKMCHorse5";				String _text = "Cavalo"; }
+		{ String _name = "RKMCHorse5Lwr";				String _text = "cavalo"; }
+		{ String _name = "RKMCHorse5Tip";				String _text = "Cavalo Decorativo. (fantasma)"; }
+		{ String _name = "RKMCHorse5b";				String _text = "Cavalo"; }
+		{ String _name = "RKMCHorse5bLwr";				String _text = "cavalo"; }
+		{ String _name = "RKMCHorse5bTip";				String _text = "Cavalo Decorativo em ângulo de 45. (fantasma)"; }
+		{ String _name = "RKMCHorse6";				String _text = "Cavalo"; }
+		{ String _name = "RKMCHorse6Lwr";				String _text = "cavalo"; }
+		{ String _name = "RKMCHorse6Tip";				String _text = "Cavalo Decorativo. (fantasma)"; }
+		{ String _name = "RKMCHorse6b";				String _text = "Cavalo"; }
+		{ String _name = "RKMCHorse6bLwr";				String _text = "cavalo"; }
+		{ String _name = "RKMCHorse6bTip";				String _text = "Cavalo Decorativo em ângulo de 45. (fantasma)"; }
+		{ String _name = "RKMChorses1toolbar";				String _text = "Barra de Ferramentas Cavalos 1"; }
+		{ String _name = "RKMChorses1toolbarLwr";				String _text = "barra de ferramentas cavalos 1"; }
+		{ String _name = "RKMChorses1toolbarTip";				String _text = "Abra a 'barra de ferramentas Cavalos 1 do Acampamento de Treinamento' para ver as opções."; }
+		{ String _name = "RKMChorses2toolbar";				String _text = "Barra de Ferramentas Cavalos 2 (ângulo de 45)"; }
+		{ String _name = "RKMChorses2toolbarLwr";				String _text = "barra de ferramentas cavalos 2 (ângulo de 45)"; }
+		{ String _name = "RKMChorses2toolbarTip";				String _text = "Abra a 'barra de ferramentas Cavalos 2 do Acampamento de Treinamento (ângulo de 45)' para ver as opções."; }
+
 	]
 }

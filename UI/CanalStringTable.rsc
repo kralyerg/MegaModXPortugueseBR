@@ -27,5 +27,13 @@ StringTable resource
 		{ String _name = "CanalBridge";					String _text = "Ponte de Canal"; }
 		{ String _name = "CanalBridgeLwr";				String _text = "ponte de canal"; }
 		{ String _name = "CanalBridgeTip";				String _text = "Uma ponte; melhore-a para torná-la removível."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "CanalMenu";				String _text = "[Cl] Decoração de Canal"; }
+		{ String _name = "CanalMenuLwr";				String _text = "[Cl] Decoração de Canal"; }
+		{ String _name = "CanalStraight";				String _text = "[Cl] Canal Reto"; }
+		{ String _name = "CanalStraightLwr";				String _text = "[Cl] Canal Reto"; }
+		{ String _name = "CanalStraightTip";				String _text = "Um canal aberto em ambas as extremidades."; }
+
 	]
 }

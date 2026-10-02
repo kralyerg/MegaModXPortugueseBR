@@ -23,5 +23,9 @@ StringTable resource
 		{ String _name = "MaritimesToolShedLwr";				String _text = "galpão de ferramentas"; }
 		{ String _name = "MaritimesToolShedTip";				String _text = "Um galpão de ferramentas, 5 variantes com tecla F, capacidade de 200 unidades. Armazena Ferramentas."; }
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Lumber";				String _text = "Madeira Serrada"; }
+
 	]	
 }

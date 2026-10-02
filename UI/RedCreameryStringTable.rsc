@@ -28,6 +28,13 @@ StringTable resource
 		{ String _name = "ProfessionDairymanTip";		String _text = "Um leiteiro leva leite a um laticínios e produz iogurte, creme de leite e queijo."; }
 		{ String _name = "ProfessionDairymanDeath";		String _text = "bebeu leite estragado e morreu."; }
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "MilkyCows";				String _text = "Vacas Leiteiras"; }
+		{ String _name = "RedCreamery";				String _text = "[RC] Laticínios Red"; }
+		{ String _name = "RedCreameryLwr";				String _text = "[rc] laticínios red"; }
+		{ String _name = "RedCreameryTip";				String _text = "O Laticínios Red pode produzir queijo, creme, manteiga e iogurte. Consome 48 de madeira e 12 de pedra."; }
+
 	]
 }
 
