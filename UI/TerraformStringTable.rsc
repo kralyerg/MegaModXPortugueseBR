@@ -1,0 +1,58 @@
+StringTable resource
+{
+	Entry _strings
+	[
+
+		{ String _name = "Terraform";				String _text = "Ferramentas de Terraformação"; }
+		{ String _name = "TerraformLwr";			String _text = "Ferramentas de Terraformação"; }
+		{ String _name = "TerraformTip";			String _text = "Ferramentas de Terraformação."; }
+
+		{ String _name = "TerraformUp1";			String _text = "Terraformar Elevar Nível 1"; }
+		{ String _name = "TerraformUp1Lwr";			String _text = "Terraformar Elevar Nível 1"; }
+		{ String _name = "TerraformUp1Tip";			String _text = "Eleva o terreno em um quadrado. Use a ferramenta 'Remover Edifícios' para usar o quadrado."; }
+
+		{ String _name = "TerraformUp2";			String _text = "Terraformar Elevar Nível 2"; }
+		{ String _name = "TerraformUp2Lwr";			String _text = "Terraformar Elevar Nível 2"; }
+		{ String _name = "TerraformUp2Tip";			String _text = "Eleva o terreno em dois quadrados. Use a ferramenta 'Remover Edifícios' para usar o quadrado."; }
+
+		{ String _name = "TerraformUp3";			String _text = "Terraformar Elevar Nível 3"; }
+		{ String _name = "TerraformUp3Lwr";			String _text = "Terraformar Elevar Nível 3"; }
+		{ String _name = "TerraformUp3Tip";			String _text = "Eleva o terreno em três quadrados. Use a ferramenta 'Remover Edifícios' para usar o quadrado."; }
+
+		{ String _name = "TerraformDown1";			String _text = "Terraformar Baixar Nível 1"; }
+		{ String _name = "TerraformDown1Lwr";			String _text = "Terraformar Baixar Nível 1"; }
+		{ String _name = "TerraformDown1Tip";			String _text = "Você não pode criar água em áreas sem água com esta ferramenta. Este é aproximadamente o nível dos pequenos riachos. Use a ferramenta 'Remover Edifícios' para usar o quadrado."; }
+
+		{ String _name = "TerraformDown2";			String _text = "Terraformar Baixar Nível 2"; }
+		{ String _name = "TerraformDown2Lwr";			String _text = "Terraformar Baixar Nível 2"; }
+		{ String _name = "TerraformDown2Tip";			String _text = "Você não pode criar água em áreas sem água com esta ferramenta. Este é aproximadamente o nível dos rios e lagos. Use a ferramenta 'Remover Edifícios' para usar o quadrado."; }
+
+		{ String _name = "TerraformZero";			String _text = "Terraformar Nível Zero"; }
+		{ String _name = "TerraformZeroLwr";			String _text = "Terraformar Nível Zero"; }
+		{ String _name = "TerraformZeroTip";			String _text = "Nivela o terreno ao nível zero normal. Use a ferramenta 'Remover Edifícios' para usar o quadrado."; }
+
+		{ String _name = "Terraform3Up1";			String _text = "Terraformar 3 Subir1"; }
+		{ String _name = "Terraform3Up1Lwr";			String _text = "Terraformar 3 Subir1"; }
+		{ String _name = "Terraform3Up1Tip";			String _text = "Terraformar 3 Subir1"; }
+
+		{ String _name = "Terraform3Up2";			String _text = "Terraformar 3 Subir2"; }
+		{ String _name = "Terraform3Up2Lwr";			String _text = "Terraformar 3 Subir2"; }
+		{ String _name = "Terraform3Up2Tip";			String _text = "Terraformar 3 Subir2"; }
+
+		{ String _name = "Terraform3Up3";			String _text = "Terraformar 3 Subir3"; }
+		{ String _name = "Terraform3Up3Lwr";			String _text = "Terraformar 3 Subir3"; }
+		{ String _name = "Terraform3Up3Tip";			String _text = "Terraformar 3 Subir3"; }
+
+		{ String _name = "Terraform3Down1";			String _text = "Terraformar 3 Descer1"; }
+		{ String _name = "Terraform3Down1Lwr";			String _text = "Terraformar 3 Descer1"; }
+		{ String _name = "Terraform3Down1Tip";			String _text = "Terraformar 3 Descer1"; }
+
+		{ String _name = "Terraform3Down2";			String _text = "Terraformar 3 Descer2"; }
+		{ String _name = "Terraform3Down2Lwr";			String _text = "Terraformar 3 Descer2"; }
+		{ String _name = "Terraform3Down2Tip";			String _text = "Terraformar 3 Descer2"; }
+
+		{ String _name = "Terraform3Zero";			String _text = "Terraformar 3 Zero"; }
+		{ String _name = "Terraform3ZeroLwr";			String _text = "Terraformar 3 Zero"; }
+		{ String _name = "Terraform3ZeroTip";			String _text = "Terraformar 3 Zero"; }
+	]
+}

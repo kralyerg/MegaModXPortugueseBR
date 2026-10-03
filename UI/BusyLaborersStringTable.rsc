@@ -4,39 +4,43 @@ StringTable toolbar
 	[
 		{
 			String _name = "CollectStoneAndIron";
-			String _text = "[Bl] Coletar Minério de Ferro e Pedra";
+			String _text = "Coletar pedra e ferro";
 		}
 		{
 			String _name = "CollectStoneAndIronLwr";
-			String _text = "[Bl] Coletar Minério de Ferro e Pedra";
+			String _text = "coletar pedra e ferro";
 		}
 		{
 			String _name = "CollectStoneAndIronTip";
-			String _text = "Envia seus trabalhadores ociosos para coletar minério de ferro e pedra na área selecionada.";
+			String _text = "Peça aos cidadãos para coletar tanto pedra quanto ferro na área selecionada.";
 		}
 		{
 			String _name = "CollectHerbs";
-			String _text = "[Bl] Coletar Ervas";
+			String _text = "Coletar ervas";
 		}
 		{
 			String _name = "CollectHerbsLwr";
-			String _text = "[Bl] Coletar Ervas";
+			String _text = "coletar ervas";
 		}
 		{
 			String _name = "CollectHerbsTip";
-			String _text = "Envia seus trabalhadores ociosos para coletar ervas na área selecionada.";
+			String _text = "Peça aos cidadãos para coletar ervas medicinais na área selecionada.";
 		}
 		{
 			String _name = "CollectWildFood";
-			String _text = "[Bl] Coletar Alimentos Silvestres";
+			String _text = "Coletar alimentos silvestres";
 		}
 		{
 			String _name = "CollectWildFoodLwr";
-			String _text = "[Bl] Coletar Alimentos Silvestres";
+			String _text = "Coletar alimentos silvestres";
 		}
 		{
 			String _name = "CollectWildFoodTip";
-			String _text = "Envia seus trabalhadores ociosos para coletar alimentos silvestres na área selecionada.";
+			String _text = "Peça aos cidadãos para coletar vários tipos de alimentos silvestres (frutas, cogumelos, cebola e raízes) na área selecionada.";
+		}
+		{
+			String _name = "BusyLaborers_menu";
+			String _text = "Mod Trabalhadores Ocupados";
 		}
 		{
 			String _name = "MainToolbar";
