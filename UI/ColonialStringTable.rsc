@@ -779,6 +779,7 @@ StringTable resource
 	//Wood house is here
 
 		{ String _name = "Tinyhouse";					String _text = "Casa Minúscula"; }
+		{ String _name = "TinyhouseLwr";					String _text = "casa minúscula"; }
 		{ String _name = "TinyshackLwr";				String _text = "casa minúscula"; }
 		{ String _name = "TinyhouseTip";				String _text = "Uma moradia pequena e básica que permitirá que novas famílias cresçam apenas até 4 pessoas. No entanto, uma família existente de qualquer tamanho pode se mudar para lá se estiver sendo realocada. Mais quente e confortável do que um barraco minúsculo."; }
 		

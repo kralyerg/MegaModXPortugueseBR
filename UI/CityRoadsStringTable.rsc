@@ -409,6 +409,13 @@ StringTable resource
 		{ String _name = "CityRoads3T5x5Sidewalk";			String _text = "Estradas da Cidade Calçada 5x5"; }
 		{ String _name = "CityRoads3T5x5SidewalkLwr";			String _text = "estradas da cidade calçada 5x5"; }
 		{ String _name = "CityRoads3T5x5SidewalkTip";			String _text = "Estradas da Cidade Calçada 5x5. Coloque um bloco de calçada de 5 de largura X 5 de profundidade (Fantasma)."; }
+	
+		{ String _name = "CityRoadsToolbar1X";	String _text = "Barra de Ferramentas de Ruas da Cidade 1X"; }
+		{ String _name = "CityRoadsToolbar1XLwr";	String _text = "barra de ferramentas de ruas da cidade 1X"; }
+		{ String _name = "CityRoadsToolbar1XTip";	String _text = "Barra de Ferramentas de Ruas da Cidade 1X. Abra esta barra de ferramentas para obter as opções de largura de 1 bloco."; }
+		{ String _name = "CityRoadsToolbar2T1X";	String _text = "Barra de Ferramentas de Ruas da Cidade 1X"; }
+		{ String _name = "CityRoadsToolbar2T1XLwr";	String _text = "barra de ferramentas de ruas da cidade 1X"; }
+		{ String _name = "CityRoadsToolbar2T1XTip";	String _text = "Barra de Ferramentas de Ruas da Cidade 1X. Abra esta barra de ferramentas para obter as opções de largura de 1 bloco."; }
 	]
 }
 

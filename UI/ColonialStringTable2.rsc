@@ -166,6 +166,7 @@ StringTable resource
 		{ String _name = "TinyshackTip";					String _text = "Uma moradia pequena e básica que permite que novas famílias cresçam até apenas 3 pessoas. No entanto, uma família já existente de qualquer tamanho pode se mudar para lá se estiver sendo realocada."; }
 		
 		{ String _name = "Tinyhouse";						String _text = "Casa Minúscula"; }
+		{ String _name = "TinyhouseLwr";						String _text = "casa minúscula"; }
 		{ String _name = "TinyshackLwr";					String _text = "casa minúscula"; }
 		{ String _name = "TinyhouseTip";					String _text = "Uma moradia pequena e básica que permite que novas famílias cresçam até apenas 4 pessoas. No entanto, uma família já existente de qualquer tamanho pode se mudar para lá se estiver sendo realocada. Mais quente e confortável do que um casebre minúsculo."; }
 		
@@ -363,6 +364,7 @@ StringTable resource
 		{ String _name = "IronMineDeepTip";					String _text = "Uma mina profunda para continuar a extração de recursos. Útil para melhorar quando sua mina atual estiver quase esgotada."; }
 
 		{ String _name = "IronMineDeeper";					String _text = "Mina Profunda"; }
+		{ String _name = "IronMineDeeperTip";					String _text = "Uma mina ainda mais profunda para continuar a extração de recursos. Útil para melhorar quando sua mina atual estiver quase vazia."; }
 		{ String _name = "IronMineDeeperLwr";					String _text = "mina profunda"; }
 		{ String _name = "IronMineDeepTip";					String _text = "Uma mina ainda mais profunda para continuar a extração de recursos. Útil para melhorar quando sua mina atual estiver quase esgotada."; }
 
@@ -371,6 +373,7 @@ StringTable resource
 		{ String _name = "QuarryDeepTip";					String _text = "Uma pedreira profunda para continuar a extração de recursos. Útil para melhorar quando sua pedreira atual estiver quase esgotada."; }
 
 		{ String _name = "QuarryDeeper";					String _text = "Pedreira Mais Profunda"; }
+		{ String _name = "QuarryDeeperTip";					String _text = "Uma pedreira ainda mais profunda para continuar a extração de recursos. Útil para melhorar quando sua pedreira atual estiver quase vazia."; }
 		{ String _name = "QuarryDeeperLwr";					String _text = "pedreira mais profunda"; }
 		{ String _name = "QuarryDeepTip";					String _text = "Uma pedreira ainda mais profunda para continuar a extração de recursos. Útil para melhorar quando sua pedreira atual estiver quase esgotada."; }
 

@@ -941,6 +941,7 @@ StringTable resource
 		{ String _name = "NMT3F2C1T2Tip";		String _text = "O 2º andar da casa multiandar NMT é usado para abrigar seus cidadãos. Tamanho: 1x5 quadrados. Custo: 16 madeira serrada, 28 pedra, 4 ferro, 10 glass, 18 toras. Residência: 5 cidadãos. EFI. de Calor%: 96. Modelos: 1. Cor: 1. Dicas: Devem ser posicionados logo à direita do 1º andar Multi-level de Esquina."; }
 
 		{ String _name = "NMT3F2C1T3";			String _text = "Multiandar 2º Andar"; }
+		{ String _name = "NMT3F2C1T3Lwr";			String _text = "multiandar 2º andar"; }
 		{ String _name = "NMT3F2vT3Lwr";		String _text = "multiandar 2º andar"; }
 		{ String _name = "NMT3F2C1T3Tip";		String _text = "O 2º andar da casa multiandar NMT é usado para abrigar seus cidadãos. Tamanho: 1x5 quadrados. Custo: 16 madeira serrada, 28 brick, 4 pedra, 10 glass, 18 rooftile. Residência: 5 cidadãos. EFI. de Calor%: 110. Modelos: 1. Cor: 1. Dicas: Devem ser posicionados logo à direita do 1º andar Multi-level de Esquina."; }
 
@@ -1044,6 +1045,7 @@ StringTable resource
 		{ String _name = "HostelF2C1T2Tip";			String _text = "O 2º andar da Pousada é usado para abrigar seus cidadãos quando eles não têm casa própria. Tamanho: 1x5 quadrados. Custo: 16 madeira serrada, 28 pedra, 4 ferro, 10 glass, 18 toras. Residência: 3 famílias de 5 cidadãos. EFI. de Calor%: 96. Modelos: 1. Cor: 1. Dicas: Devem ser posicionados logo à direita do 1º andar da Pousada de Esquina."; }
 
 		{ String _name = "HostelF2C1T3";			String _text = "Pousada 2º Andar"; }
+		{ String _name = "HostelF2C1T3Lwr";			String _text = "pousada 2º andar"; }
 		{ String _name = "HostelF2vT3Lwr";			String _text = "pousada 2º andar"; }
 		{ String _name = "HostelF2C1T3Tip";			String _text = "O 2º andar da Pousada é usado para abrigar seus cidadãos quando eles não têm casa própria. Tamanho: 1x5 quadrados. Custo: 16 madeira serrada, 28 brick, 4 pedra, 10 glass, 18 rooftile. Residência: 3 famílias de 5 cidadãos. EFI. de Calor%: 110. Modelos: 1. Cor: 1. Dicas: Devem ser posicionados logo à direita do 1º andar da Pousada de Esquina."; }
 

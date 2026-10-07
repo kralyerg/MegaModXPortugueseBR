@@ -31,5 +31,9 @@ StringTable resource
 		{ String _name = "ProfessionWorkerTip";			String _text = "Um Trabalhador é capaz de assumir várias funções pela cidade."; }
 		{ String _name = "ProfessionWorkerDeath";		String _text = "morreu de excesso de trabalho. Coitado."; }
 		
+	
+		{ String _name = "ProfessionCook";	String _text = "Cozinheiro"; }
+		{ String _name = "ProfessionCookTip";	String _text = "Um cozinheiro preparará refeições para seus cidadãos."; }
+		{ String _name = "ProfessionCookDeath";	String _text = "morreu ao consumir carne podre."; }
 	]
 }

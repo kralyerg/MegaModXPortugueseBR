@@ -84,6 +84,8 @@ StringTable professions
 
 		{	String _name = "ProfessionChild";	String _text = "Criança";	}
 		{	String _name = "ProfessionStudent";	String _text = "Estudante";	}
+	
+		{ String _name = "ProfessionFarmeDeathr";	String _text = "morreu inesperadamente."; }
 	]
 }
 
@@ -1748,5 +1750,39 @@ StringTable keyNames
 		{ String _name = "Keyboard101"; String _text = "Numpad 7"; }
 		{ String _name = "Keyboard102"; String _text = "Numpad 8"; }
 		{ String _name = "Keyboard103"; String _text = "Numpad 9"; }
+	
+		{ String _name = "Keyboard56";	String _text = "\"; }
+	]
+}
+
+StringTable NeckcenMarkart
+{
+	Entry _strings
+	[
+	{ String _name = "MarkartTip";	String _text = "Markarts, mercados especializados em miniatura."; }
+	{ String _name = "Blacksmith";	String _text = "Markart do Ferreiro"; }
+	{ String _name = "BlacksmithLwr";	String _text = "markart do ferreiro"; }
+	{ String _name = "BlacksmithTip";	String _text = "Armazena madeira, carvão e ferro."; }
+	{ String _name = "Consumable";	String _text = "Markart de Consumíveis"; }
+	{ String _name = "ConsumableLwr";	String _text = "markart de consumíveis"; }
+	{ String _name = "ConsumableTip";	String _text = "Armazena ferramentas, roupas, ervas e combustível."; }
+	{ String _name = "ConsumableNoCoal";	String _text = "Markart de Consumíveis #"; }
+	{ String _name = "ConsumableNoCoalLwr";	String _text = "markart de consumíveis #"; }
+	{ String _name = "ConsumableNoCoalTip";	String _text = "Armazena ferramentas, roupas, ervas e lenha."; }
+	{ String _name = "Food";	String _text = "Markart de Alimentos"; }
+	{ String _name = "FoodLwr";	String _text = "markart de alimentos"; }
+	{ String _name = "FoodTip";	String _text = "Armazena alimentos."; }
+	{ String _name = "FoodNoGrain";	String _text = "Markart de Alimentos #"; }
+	{ String _name = "FoodNoGrainLwr";	String _text = "markart de alimentos #"; }
+	{ String _name = "FoodNoGrainTip";	String _text = "Armazena alimentos (exceto cereais)."; }
+	{ String _name = "Tailor";	String _text = "Markart do Alfaiate"; }
+	{ String _name = "TailorLwr";	String _text = "markart do alfaiate"; }
+	{ String _name = "TailorTip";	String _text = "Armazena tecidos."; }
+	{ String _name = "Tavern";	String _text = "Markart da Taverna"; }
+	{ String _name = "TavernLwr";	String _text = "markart da taverna"; }
+	{ String _name = "TavernTip";	String _text = "Estoca cereais."; }
+	{ String _name = "Wood";	String _text = "Markart de Madeira"; }
+	{ String _name = "WoodLwr";	String _text = "markart de madeira"; }
+	{ String _name = "WoodTip";	String _text = "Estoca madeira."; }
 	]
 }
